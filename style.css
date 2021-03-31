@@ -1,0 +1,39 @@
+body {
+    background-color: darkred;
+}
+
+img {
+    width: 290px;
+    border-bottom-style: solid;
+    border-color: antiquewhite;    
+    border-top-left-radius: 10px;    
+    border-top-right-radius: 10px;  
+    border-bottom-width: 5px;      
+}
+
+.personagem {
+    width: 300px;
+    margin: 25px;
+    border-radius: 18px;
+    border-style: solid;
+    border-width: 5px;
+    text-align: center;
+    font-family: sans-serif;
+    position: relative;
+    margin-top: 50px;
+    color: antiquewhite;
+    background-color: black;
+    border-color: antiquewhite;
+}
+
+nav {
+    background-color: black;
+    color: floralwhite;
+    height: 50px;
+    font-family: sans-serif;
+    font-size: large;
+    padding: 18px;
+    top: 0;
+    left: 0;
+    position: absolute;
+}
